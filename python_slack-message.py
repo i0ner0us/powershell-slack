@@ -7,7 +7,7 @@ if __name__ == '__main__':
 
     data = {
         'text': 'I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.',
-        'username': 'HAL',
+        'username': 'i0ner0us',
         'icon_emoji': ':robot_face:'
     }
 
